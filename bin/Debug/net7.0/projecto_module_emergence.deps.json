@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "projecto_module_emergence/1.0.0": {
+        "runtime": {
+          "projecto_module_emergence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projecto_module_emergence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

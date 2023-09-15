@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/projecto_module_emergence.props" />
+</Project>
