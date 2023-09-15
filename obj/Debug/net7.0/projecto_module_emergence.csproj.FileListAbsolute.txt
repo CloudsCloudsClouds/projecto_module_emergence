@@ -29,3 +29,5 @@
 /home/dbh/Documents/projecto_module_emergence/obj/Debug/net7.0/projecto_module_emergence.pdb
 /home/dbh/Documents/projecto_module_emergence/obj/Debug/net7.0/projecto_module_emergence.genruntimeconfig.cache
 /home/dbh/Documents/projecto_module_emergence/obj/Debug/net7.0/ref/projecto_module_emergence.dll
+/home/dbh/Documents/projecto_module_emergence/bin/Debug/net7.0/Python.Runtime.dll
+/home/dbh/Documents/projecto_module_emergence/obj/Debug/net7.0/projecto_module_emergence.csproj.CopyComplete
