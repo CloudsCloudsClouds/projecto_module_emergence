@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "Wu1wuaqHEytMUdP58BmV2EMKjXAMqBgl4+uPGb5IidpK+m9Fx8N+I4gqxA/FOZp4+J+nRlniV8YXmP0AEt57MQ==",
+  "dgSpecHash": "OSy2dVju3a+JvrWi6rFX4ZSE/yMsKPrORL6MFx33BOsJLsKcb43OpWIDQ/JcDfsDckIgVIwUSB4WaW7EapxVbg==",
   "success": true,
   "projectFilePath": "/home/dbh/Documents/projecto_module_emergence/projecto_module_emergence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/dbh/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/pythonnet/3.0.2/pythonnet.3.0.2.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/dbh/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
